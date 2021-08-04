@@ -1,7 +1,7 @@
 Decription: Application to search( by name or id value ) for pokemon using an API which is already made.
 Api link: https://pokeapi.co/api/v2/pokemon/
 Usage: 	- Ressources :
-		* Install all dependencies (Manually):  Run all one by on.
+		* Install all dependencies (Manually):  Run all commande line one by one.
 
 			npm i express@4.17.1",
     			npm i express-handlebars@5.3.2",
